@@ -415,19 +415,19 @@ color: #000;
 margin-bottom: 12px;
 }
 
-#mainpanel .node {
+/*#mainpanel .node {
 background-position: -11px -119px;
-}
+}*/
 
 #mainpanel .edge {
-background-position: -51px -122px;
-}
-
+/*background-position: -51px -122px;*/
+background-image:url('../images/548ac2.png'); /*incersion de l'image*/
+	}
+	
 #mainpanel .colours {
-
-background-image:url('../images/rainbow.png');
-
+background-image:url('../images/FF4242.png'); /*image changée ici*/
 }
+
 #legend .note {
 margin-bottom: 8px;
 
